@@ -1,0 +1,15 @@
+.trash {
+
+  color: #f57251;
+  transition: 0.3s;
+
+       justify-items: end;
+           display: grid;
+           padding-right: 10px;
+}
+
+.trash:hover {
+  color: red;
+  transition: 0.3s;
+  cursor: pointer;
+}
